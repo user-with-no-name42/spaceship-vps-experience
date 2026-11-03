@@ -1,0 +1,16 @@
+Account restored. VPS and data unrecoverable.
+
+My Spaceship account was suddenly restricted without prior warning, within a minute of ordering an additional paid VPS. I could not access my account or server.
+
+I completed the requested verification and regained account access. But my original VPS was not restored. Support said it could not restore the server or recover its data.
+
+This happened on 3 November 2026, the day I registered. The original VPS was on a seven-day trial. The account restriction interrupted it after only a few hours.
+
+The agent initially answered yes when asked whether the restriction was an error. He later explained that automated security screening had triggered verification and linked the VPS cancellation to that process. Both answers are included in the evidence.
+
+After escalation to a supervisor, there was still no server recovery, data recovery, replacement or credit offered as a remedy. The explanation included: “However, this is how our system works, and it cannot be changed.” The final reply again confirmed that VPS access could not be restored.
+
+The agent was courteous, and I had independently saved some results. I still expect a provider to preserve a safe way to reverse its own restrictions. Restoring my login did not restore my server. When recovery proved impossible, no alternative remedy was offered either. An internal system limitation left the consequences with me. If the same failure affected an important project, the impact would be much greater. This experience leaves me unwilling to take that risk.
+
+Full chronology and screenshots:
+https://user-with-no-name42.github.io/spaceship-vps-experience/

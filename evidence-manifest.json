@@ -1,0 +1,129 @@
+{
+  "source_url": "https://www.spaceship.com/",
+  "chat_date": "2026-11-03",
+  "timezone": "Asia/Bangkok",
+  "latest_observed_chat_time": "12:50",
+  "case_status": "The conversation ended after the 12:49 confirmation that VPS access could not be restored; the customer thanked support at 12:50.",
+  "screenshots": [
+    {
+      "file": "screenshots/01-questions-and-confirmations.png",
+      "source_file": "originals/viewport-initial.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "a0f21252a98a6638a2fa9407050017aae6ac791b6c13da026e2780029559e4d9",
+      "sha256": "603b0e8a3cceb4daa2ec12af8967b1fc49693fa9a4b654bca695a8bf56b2a762",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/02-trial-interruption-and-refusal.png",
+      "source_file": "originals/data-response-candidate.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "c67fdc3b19813de5554a79e372eb54ef9ffe3bf8bf147c2debcab0468c05d45c",
+      "sha256": "573a26bbc5a56c1f3962d6c5949b4662e3178fce6db454e1498140231b22a793",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/03-supervisor-response.png",
+      "source_file": "originals/supervisor-candidate.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "13fc2de79b00d3a9b0dcf4f3ffaa870031988de04d16b4951fea457efe5274b2",
+      "sha256": "df0c2f2f6095e09bff1691874940bf4f00d0d2b881f404f22dbc904fcf3516d6",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/04-later-response-with-context.png",
+      "source_file": "originals/04-viewport.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "01f9ba925314951c8d6da96933299a6373a8c5a8c5ac9ea1060deb410a0e2e7e",
+      "sha256": "d4902468b176cd99bd052d0ccb94d4be9fae53ec05a223b82ed4beb07c591437",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/05-server-and-data-restoration.png",
+      "source_file": "originals/05-viewport.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 285,
+        "width": 960,
+        "height": 310
+      },
+      "source_sha256": "af37f133ba99d3cfa25345df713ded0d48e4970ffea87f1fecf707a87645b6b4",
+      "sha256": "3d09887e2a73c5bf8b09457b324b0104ea30badfe1373755fcbd34a65d5dbb09",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/06-further-check-pending.png",
+      "source_file": "originals/06-viewport.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "6fe4a5cc43c90c1c67fdb2f06506be82b2a252033d2b97df59c2b74f73e511da",
+      "sha256": "c8fcc3b639e191602da9c59580dcb9dc4e8c560c545cd1b77c3dcc8fedc34318",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/07-security-check-clarification.png",
+      "source_file": "originals/07-viewport.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "3409f3ab147a24ec6420f97b586a7b5c75bf6898c645cb82aa5c56480e219dca",
+      "sha256": "ee7e18a9a20332653ef16fae53c6cb88fad0ac6017f884a406b700bb134ab973",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/08-final-restoration-refusal.png",
+      "source_file": "originals/08-viewport.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "43dc70bc8075045e30fff7eab7c5935baaf000d4f17ad8f49ca58de5a2b64e84",
+      "sha256": "7db62efdd94ae267918bfb43df263e16219932f422bba60cf928d88fd6f100fb",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    },
+    {
+      "file": "screenshots/09-closing-context.png",
+      "source_file": "originals/09-viewport.png",
+      "crop_pixels": {
+        "x": 320,
+        "y": 62,
+        "width": 960,
+        "height": 647
+      },
+      "source_sha256": "f2ef3c0b7d5d5b14f440f5dbda2b1661854e3f117a21de9080b8cab631aecb91",
+      "sha256": "b1ac9137a563b2cdeee0bb98d0f96b97d0e992df2c8ad064c808bb0e478b47ac",
+      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
+    }
+  ],
+  "privacy": "Public crops exclude chat header agent identity, account email and VPS IP. The private originals are not included in the public ZIP.",
+  "capture_note": "Native browser screenshots retained. The optional built-in transcript download was attempted but not confirmed; the rendered chat text and accessibility snapshots are the actual saved text sources.",
+  "verification": "All nine public PNG crops match the corresponding decoded 8-bit pixels of their original browser captures. No text edits, compositing or AI image generation."
+}
