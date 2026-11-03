@@ -19,19 +19,6 @@
       "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
     },
     {
-      "file": "screenshots/03-supervisor-response.png",
-      "source_file": "originals/supervisor-candidate.png",
-      "crop_pixels": {
-        "x": 320,
-        "y": 62,
-        "width": 960,
-        "height": 647
-      },
-      "source_sha256": "13fc2de79b00d3a9b0dcf4f3ffaa870031988de04d16b4951fea457efe5274b2",
-      "sha256": "df0c2f2f6095e09bff1691874940bf4f00d0d2b881f404f22dbc904fcf3516d6",
-      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
-    },
-    {
       "file": "screenshots/04-later-response-with-context.png",
       "source_file": "originals/04-viewport.png",
       "crop_pixels": {
@@ -56,22 +43,9 @@
       "source_sha256": "3409f3ab147a24ec6420f97b586a7b5c75bf6898c645cb82aa5c56480e219dca",
       "sha256": "ee7e18a9a20332653ef16fae53c6cb88fad0ac6017f884a406b700bb134ab973",
       "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
-    },
-    {
-      "file": "screenshots/08-final-restoration-refusal.png",
-      "source_file": "originals/08-viewport.png",
-      "crop_pixels": {
-        "x": 320,
-        "y": 62,
-        "width": 960,
-        "height": 647
-      },
-      "source_sha256": "43dc70bc8075045e30fff7eab7c5935baaf000d4f17ad8f49ca58de5a2b64e84",
-      "sha256": "7db62efdd94ae267918bfb43df263e16219932f422bba60cf928d88fd6f100fb",
-      "transformation": "Pixel crop only; no text editing, compositing, annotations or AI image generation."
     }
   ],
   "privacy": "Public crops exclude chat header agent identity, account email and VPS IP. The private originals are not included in the public ZIP.",
   "capture_note": "Native browser screenshots retained. The optional built-in transcript download was attempted but not confirmed; the rendered chat text and accessibility snapshots are the actual saved text sources.",
-  "verification": "All five selected public crops are byte-identical to the previously pixel-verified browser screenshot crops. No text edits, compositing or AI image generation."
+  "verification": "All three selected public crops are byte-identical to the previously pixel-verified browser screenshot crops. Original evidence labels 03, 05 and 07 are retained. No text edits, compositing or AI image generation."
 }
