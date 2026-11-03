@@ -1,15 +1,11 @@
-# Account restored, but the VPS and its data could not be recovered
+# The provider has no way to undo the consequences of its own mistakes.
 
-A sudden account block left me unable to access my account or VPS. I completed verification and got the account back. The VPS did not come back with it: Spaceship support said it could not restore access to the server or recover its data.
+My Spaceship account was suddenly blocked without warning. I lost access to both my account and my server.
 
-This happened on 3 November 2026, the day I registered. I was using a VPS under a seven-day trial and had just ordered an additional paid VPS. Within a minute of that order, my account was restricted without prior warning.
+I completed verification, and my account access was restored. But my original VPS was not. Support said that neither the server nor its data could be recovered.
 
-The agent initially answered yes when I asked whether the restriction was an error. He later described automated security screening, said this did not mean I was suspected of fraud, and declined to disclose the trigger. He explicitly linked the VPS cancellation to that process. Both the initial answers and the later explanation are preserved in the screenshots.
+The agent initially confirmed that the restriction was a mistake. He later explained it as an automated security check and linked the VPS cancellation to that process. Both responses are shown below. The outcome remained the same: my login was restored, but my server and data were not.
 
-The outcome after verification was clear: my account was accessible again, but my original VPS was not. Support could not recover the server or its data. After checking with a supervisor, the agent said nothing could be done. No replacement or credit was offered as a remedy. The explanation included: “However, this is how our system works, and it cannot be changed.” At 12:49, the agent again confirmed that restoring VPS access was impossible.
+Escalating the issue to a supervisor changed nothing. No recovery, replacement or compensation was offered. The explanation included: “However, this is how our system works, and it cannot be changed.”
 
-Some results had already been saved independently. That reduced my loss, but did not give Spaceship a way to restore the original server. The agent was courteous; the recovery outcome remained the same.
-
-I expect a provider to preserve a safe recovery path when it restricts an account. Once the restriction is lifted, the customer should be able to regain their services and data, not just their login. If the provider cannot restore them, there should be a meaningful remedy for the consequences. In my case, neither recovery nor an alternative remedy was offered; the explanation was how the system works. If the same failure affected an important project, the impact would be much greater. This experience leaves me unwilling to take that risk.
-
-*Experience date: 3 November 2026. All chat times are Bangkok time (UTC+7). Updated through the final exchange at 12:50.*
+I expect a provider to resolve the consequences of its own actions or, when recovery is impossible, offer a meaningful remedy. In my case, neither happened. The internal system limitation became my loss. That leaves me unwilling to trust Spaceship with an important project.
